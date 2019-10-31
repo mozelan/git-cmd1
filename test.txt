@@ -1,3 +1,4 @@
 first commit!
 two add!!!
 git checkout dev1;
+git checkout dev;
