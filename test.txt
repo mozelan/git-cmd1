@@ -1,5 +1,4 @@
 first commit!
 two add!!!
 git checkout dev1;
-git checkout master;
-创建了一个分支
+我是dev；我在测试--no-ff!
