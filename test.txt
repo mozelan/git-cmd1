@@ -3,3 +3,4 @@ two add!!!
 git checkout dev1;
 我是dev；我在测试--no-ff!
 新增dev信息
+修复bug
